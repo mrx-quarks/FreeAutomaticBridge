@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/eobs/Documents/NetBeansProjects/FreeAutomaticBridg/target/classes;C:/Users/eobs/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar;C:/Users/eobs/.m2/repository/commons-daemon/commons-daemon/1.0.15/commons-daemon-1.0.15.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/eobs/Documents/NetBeansProjects/FreeAutomaticBridg/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2014. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/eobs/Documents/NetBeansProjects/FreeAutomaticBridg/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FreeAutomaticBridge 0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/7/docs/api' 'C:/Users/eobs/Documents/NetBeansProjects/FreeAutomaticBridg/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FreeAutomaticBridge 0.1-SNAPSHOT API'
